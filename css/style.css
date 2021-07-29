@@ -134,7 +134,7 @@ ol {
 
 .section-title h1 {
 	font-size: 100px;
-	color: #f2f2f2;
+	color: rgba(255,0,0,0.2);
 	font-family: "maison_neuebold_italic";
 	position: absolute;
 	left: 0;
